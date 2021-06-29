@@ -11,5 +11,10 @@
     "url": "https://github.com/ezechiaskumbu77/Notes-App.git"
   },
   "author": "Ezechias Kumbu Kumbu",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "validator": "^13.6.0",
+    "yargs": "^17.0.1"
+  }
 }
